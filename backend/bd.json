@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "name": "ali",
+      "password": "12345",
+      "email": "ali@gmail.com",
+      "date": "2022-12-16",
+      "gender": "",
+      "id": 1
+    },
+    {
+      "name": "alis",
+      "password": "123",
+      "email": "ali@gmail.com",
+      "date": "2022-12-19",
+      "gender": "on",
+      "id": 2
+    },
+    {
+      "name": "alisaa",
+      "password": "12323",
+      "email": "ali@gmail.com",
+      "date": "2022-12-19",
+      "gender": "on",
+      "id": 3
+    },
+    {
+      "name": "aswq1",
+      "password": "12234",
+      "email": "asks@gmail.com",
+      "date": "2022-12-13",
+      "gender": "on",
+      "id": 4
+    },
+    {
+      "name": "hamna 22",
+      "password": "123",
+      "email": "123",
+      "date": "2022-12-23",
+      "gender": "",
+      "id": 5
+    },
+    {
+      "name": "hamna 22",
+      "password": "123",
+      "email": "123",
+      "date": "2022-12-23",
+      "gender": "on",
+      "id": 6
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "date": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "date": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "date": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "date": "",
+      "id": 10
+    }
+  ]
+}
